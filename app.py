@@ -17,7 +17,7 @@ st.markdown("""
   Generates a compact and a full double stem and leaf plot for two (reasonably well-behaved) sets of values  
 - [Mayer Line Calculator](https://mayerline.streamlit.app)  
   Produces the equation of the line of best fit in slope-intercept form using the Mayer line method
-- [Median-Median Line Calculator](https://medmedline.streamlit.app)
+- [Median-Median Line Calculator](https://medmedline.streamlit.app)  
   Produces the equation of the line of best fit in slope-intercept form using the Median-Median method
 """)
 
