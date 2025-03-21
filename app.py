@@ -18,5 +18,5 @@ st.markdown("""
 """)
 
 st.markdown("*by yarov3so*")
-st.markdown("""<a href="https://www.buymeacoffee.com/yarov3so" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="width: 22px; height: auto;" ></a>""",unsafe_allow_html=True)
+st.markdown("""<a href="https://www.buymeacoffee.com/yarov3so" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="width: 3em; height: auto;" ></a>""",unsafe_allow_html=True)
 
