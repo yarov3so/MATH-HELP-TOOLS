@@ -11,9 +11,9 @@ st.markdown("""
   Calculates the percentile rank of all values in a data set  
   Supports suppressed value ranges.  
   Finds values corresponding to a given percentile rank  
-- [Stem and Lead Plot Generator](https://slplotgen.streamlit.app)  
+- [Stem and Leaf Plot Generator](https://slplotgen.streamlit.app)  
   Generates a compact and a full stem and leaf plot for a (reasonably well-behaved) set of values  
-- [Double Stem and Lead Plot Generator](https://doubleslplotgen.streamlit.app)    
+- [Double Stem and Leaf Plot Generator](https://doubleslplotgen.streamlit.app)    
   Generates a compact and a full double stem and leaf plot for two (reasonably well-behaved) sets of values  
 """)
 
