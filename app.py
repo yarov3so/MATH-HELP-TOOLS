@@ -9,7 +9,7 @@ st.markdown("""
   Calculates range, mean, mean deviation, median and mode(s), if any  
 - [Percentile Rank Calculator](https://prcalc.streamlit.app)  
   Calculates the percentile rank of all values in a data set  
-  Supports suppressed value ranges.  
+  Supports suppressed value ranges  
   Finds values corresponding to a given percentile rank  
 - [Stem and Leaf Plot Generator](https://slplotgen.streamlit.app)  
   Generates a compact and a full stem and leaf plot for a (reasonably well-behaved) set of values  
