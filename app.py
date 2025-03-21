@@ -15,6 +15,8 @@ st.markdown("""
   Generates a compact and a full stem and leaf plot for a (reasonably well-behaved) set of values  
 - [Double Stem and Leaf Plot Generator](https://doubleslplotgen.streamlit.app)    
   Generates a compact and a full double stem and leaf plot for two (reasonably well-behaved) sets of values  
+- [Mayer Line Calculator](https://mayerline.streamlit.app)  
+  Calculates the equation of the Mayer line of best fit in slope-intercept form.
 """)
 
 st.markdown("""*Crafted by yarov3so*  
