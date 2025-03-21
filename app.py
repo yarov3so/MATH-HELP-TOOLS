@@ -6,16 +6,16 @@ st.markdown("##### Below are tools designed to simplify tedious calculations whi
 
 st.markdown("""
 ####  
-- [Basic Statistical Measurements](https://basicstat.streamlit.app) : 
-  calculates range, mean, mean deviation, median and mode(s), if any.
-- [Percentile Rank Calculator](https://prcalc.streamlit.app) :
-  calculates the percentile rank of all values in a data set. 
+- [Basic Statistical Measurements](https://basicstat.streamlit.app) :  \n
+  Calculates range, mean, mean deviation, median and mode(s), if any.
+- [Percentile Rank Calculator](https://prcalc.streamlit.app) :  \n
+  Calculates the percentile rank of all values in a data set. 
   Supports suppressed value ranges. 
   Finds values corresponding to a given percentile rank. 
-- [Stem and Lead Plot Generator](https://slplotgen.streamlit.app) :
-  generates a compact and a full stem and leaf plot for a (reasonably well-behaved) set of values.
-- [Double Stem and Lead Plot Generator](https://doubleslplotgen.streamlit.app) :
-  generates a compact and a full double stem and leaf plot for two (reasonably well-behaved) sets of values.
+- [Stem and Lead Plot Generator](https://slplotgen.streamlit.app) :  \n
+  Generates a compact and a full stem and leaf plot for a (reasonably well-behaved) set of values.
+- [Double Stem and Lead Plot Generator](https://doubleslplotgen.streamlit.app) :  \n
+  Generates a compact and a full double stem and leaf plot for two (reasonably well-behaved) sets of values.
 """)
 
 st.markdown("*by yarov3so*")
