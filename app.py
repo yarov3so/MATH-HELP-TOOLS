@@ -19,5 +19,5 @@ st.markdown("""
 
 
 st.markdown("""*by yarov3so*  
-<a href="https://www.buymeacoffee.com/yarov3so" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="width: 8em; height: auto; padding-top: 3em;" ></a>""",unsafe_allow_html=True)
+<a href="https://www.buymeacoffee.com/yarov3so" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="width: 8em; height: auto; padding-top: 1em;" ></a>""",unsafe_allow_html=True)
 
