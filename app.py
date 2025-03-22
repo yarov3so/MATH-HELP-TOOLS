@@ -20,7 +20,7 @@ st.markdown("""
 - [Median-Median Line Calculator](https://medmedline.streamlit.app)  
   Produces the equation of the line of best fit in slope-intercept form using the Median-Median method
 - [Dijkstra's Shortest Path Calculator](https://dijkstracalc.streamlit.app)  
-  Documents each step of Dijkstra's algorithm, producing the distance table in the process
+  Documents each step of Dijkstra's algorithm, producing the distance table in the process  
   Finds the shortest path from any node to any other node in a connected graph
 """)
 
