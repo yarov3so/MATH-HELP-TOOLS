@@ -1,7 +1,7 @@
 import streamlit as st
 
 
-st.image('MHT.png', height=300, use_container_width=True)
+st.image('MHT.png', width=320, use_container_width=True)
 
 st.title("Math Help Tools")
 
