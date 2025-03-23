@@ -25,7 +25,7 @@ st.markdown("""
   Supports directed and undirected graphs
   Edges in an undirected graph need to be specified only once (supports automatic undirectional handling and resolves typos/omissions/inconsistensies)
 - [LinOptCalc - Linear Optimization Calculator](https://linoptcalc.streamlit.app)  
-  Carries out the simplex method for linear optimization  
+  Carries out the simplex method for linear optimization (minimization and maximization)  
   Thoroughly documents every step in the optimization process
 """)
 
