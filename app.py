@@ -1,8 +1,9 @@
 import streamlit as st
 
-st.title("Math Help Tools")
 
-st.image('MHT.png', width=500)
+st.image('MHT.png', width=300)
+
+st.title("Math Help Tools")
 
 st.markdown("###### Below are tools designed to simplify tedious calculations while also serving as valuable learning resources, offering clear, step-by-step breakdowns of each process.")
 
