@@ -19,27 +19,27 @@ st.markdown("###### Below are tools designed to simplify tedious calculations wh
 
 st.markdown("""
 - [Basic Statistical Measurements](https://basicstat.streamlit.app)  
-  Calculates range, mean, mean deviation, median and mode(s), if any  
+  Calculates range, mean, mean deviation, median and mode(s), if any.  
 - [Percentile Rank Calculator](https://prcalc.streamlit.app)  
-  Calculates the percentile rank of all values in a data set  
-  Supports suppressed value ranges  
-  Finds values corresponding to a given percentile rank  
+  Calculates the percentile rank of all values in a data set.  
+  Supports suppressed value ranges.  
+  Finds values corresponding to a given percentile rank.  
 - [Stem and Leaf Plot Generator](https://slplotgen.streamlit.app)  
-  Generates a compact and a full stem and leaf plot for a (reasonably well-behaved) set of values  
+  Generates a compact and a full stem and leaf plot for a (reasonably well-behaved) set of values.  
 - [Double Stem and Leaf Plot Generator](https://doubleslplotgen.streamlit.app)    
-  Generates a compact and a full double stem and leaf plot for two (reasonably well-behaved) sets of values  
+  Generates a compact and a full double stem and leaf plot for two (reasonably well-behaved) sets of values.  
 - [Mayer Line Calculator](https://mayerline.streamlit.app)  
-  Produces the equation of the line of best fit in slope-intercept form using the Mayer line method
+  Produces the equation of the line of best fit in slope-intercept form using the Mayer line method.
 - [Median-Median Line Calculator](https://medmedline.streamlit.app)  
-  Produces the equation of the line of best fit in slope-intercept form using the Median-Median method
+  Produces the equation of the line of best fit in slope-intercept form using the Median-Median method.
 - [Dijkstra's Shortest Path Calculator](https://dijkstracalc.streamlit.app)  
-  Documents each step of Dijkstra's algorithm, producing the distance table in the process  
-  Finds the shortest path from any node to any other node in a connected graph  
-  Supports directed and undirected graphs
-  Edges in an undirected graph need to be specified only once (supports automatic undirectional handling and resolves typos/omissions/inconsistensies)
+  Documents each step of Dijkstra's algorithm, producing the distance table in the process.  
+  Finds the shortest path from any node to any other node in a connected graph.  
+  Supports directed and undirected graphs.
+  Edges in an undirected graph need to be specified only once (supports automatic undirectional handling and resolves typos/omissions/inconsistensies).
 - [LinOptCalc - Linear Optimization Calculator](https://linoptcalc.streamlit.app)  
-  Carries out the simplex method for linear optimization (minimization and maximization)  
-  Thoroughly documents every step in the optimization process
+  Carries out the simplex method for linear optimization (minimization and maximization).  
+  Thoroughly documents every step in the optimization process.
 """)
 
 st.markdown("""*Crafted by yarov3so*  
