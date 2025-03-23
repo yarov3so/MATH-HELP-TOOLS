@@ -3,14 +3,14 @@ import streamlit as st
 
 st.image('MHT.png', width=320, use_container_width=True)
 
-st.markdown(
-    """
-    <div style="display: flex; justify-content: center;">
-        <img src="https://raw.githubusercontent.com/yarov3so/MATH-HELP-TOOLS/433fb18a9ddcef6fd7dd5c78d3288325724037fa/MHT.png" alt="Centered Image" width="300">
-    </div>
-    """,
-    unsafe_allow_html=True
-)
+# st.markdown(
+#     """
+#     <div style="display: flex; justify-content: center;">
+#         <img src="https://raw.githubusercontent.com/yarov3so/MATH-HELP-TOOLS/433fb18a9ddcef6fd7dd5c78d3288325724037fa/MHT.png" alt="Centered Image" width="300">
+#     </div>
+#     """,
+#     unsafe_allow_html=True
+# )
 
 #st.title("Math Help Tools")
 
