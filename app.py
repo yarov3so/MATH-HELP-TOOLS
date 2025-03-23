@@ -33,10 +33,10 @@ st.markdown("""
 - [Median-Median Line Calculator](https://medmedline.streamlit.app)  
   Produces the equation of the line of best fit in slope-intercept form using the Median-Median method.
 - [Dijkstra's Shortest Path Calculator](https://dijkstracalc.streamlit.app)  
+  Finds the shortest path from any node to any other node in a connected graph.   
   Documents each step of Dijkstra's algorithm, producing the distance table in the process.  
-  Finds the shortest path from any node to any other node in a connected graph.  
-  Supports directed and undirected graphs.
-  Edges in an undirected graph need to be specified only once (supports automatic undirectional handling and resolves typos/omissions/inconsistensies).
+  Supports directed and undirected graphs.  
+  Edges in an undirected graph need to be specified only once (supports automatic undirectional handling and resolves typos/omissions/inconsistensies).  
 - [LinOptCalc - Linear Optimization Calculator](https://linoptcalc.streamlit.app)  
   Carries out the simplex method for linear optimization (minimization and maximization).  
   Thoroughly documents every step in the optimization process.
