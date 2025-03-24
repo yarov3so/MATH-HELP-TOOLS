@@ -2,7 +2,7 @@ import streamlit as st
 
 st.set_page_config(
     page_title="Math Help Tools",
-    page_icon="MHT.png", 
+    page_icon=":rocket:", 
 )
 
 st.image('MHT.png', width=320, use_container_width=True)
