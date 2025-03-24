@@ -35,6 +35,7 @@ st.markdown("""
   Produces the equation of the line of best fit in slope-intercept form using the Median-Median method.
 - [Contingency Table Generator](https://conttablegen.streamlit.app)  
   Produces a contingency table for a set of data points.  
+  Estimates the linear correlation coefficient.
 - [Dijkstra's Shortest Path Calculator](https://dijkstracalc.streamlit.app)  
   Finds the shortest path from any node to any other node in a connected graph.   
   Documents each step of Dijkstra's algorithm, producing the distance table in the process.  
