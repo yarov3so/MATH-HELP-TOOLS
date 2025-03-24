@@ -29,7 +29,8 @@ st.markdown("""
 - [Double Stem and Leaf Plot Generator](https://doubleslplotgen.streamlit.app)    
   Generates a compact and a full double stem and leaf plot for two (reasonably well-behaved) sets of values.  
 - [Mayer Line Calculator](https://mayerline.streamlit.app)  
-  Produces the equation of the line of best fit in slope-intercept form using the Mayer line method.
+  Produces the equation of the line of best fit in slope-intercept form using the Mayer line method.  
+  This tool can be also used to find the equation of a line passing between two points.  
 - [Median-Median Line Calculator](https://medmedline.streamlit.app)  
   Produces the equation of the line of best fit in slope-intercept form using the Median-Median method.
 - [Contingency Table Generator](https://conttablegen.streamlit.app)  
