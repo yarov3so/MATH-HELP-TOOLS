@@ -48,6 +48,12 @@ st.markdown("""
 - [LinOptCalc - Linear Optimization Calculator](https://linoptcalc.streamlit.app)  
   Carries out the simplex method for linear optimization (minimization and maximization).  
   Thoroughly documents every step in the optimization process.
+- [Schedule Helper](https://scheduleh3lper.streamlit.app)
+  A tool for generating and tweaking schedules primarily meant to be used by teachers in Quebec.
+  Dynamically recommends a schedule respecting user-specified constraints.
+  Detects gaps, overlaps and inconsistensies.
+  Generates a Gantt chart of the recommended schedule.
+  
 """)
 
 st.markdown("""*Crafted by yarov3so*  
