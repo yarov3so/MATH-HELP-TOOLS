@@ -51,7 +51,7 @@ st.markdown("""
 - [Schedule Helper](https://scheduleh3lper.streamlit.app)  
   A tool for generating and tweaking schedules primarily meant to be used by teachers in Quebec.
   Dynamically recommends a schedule respecting user-specified constraints.  
-  Detects gaps, overlaps and inconsistensies.  
+  Detects gaps, overlaps and inconsistencies.  
   Generates a Gantt chart of the recommended schedule.
   
 """)
